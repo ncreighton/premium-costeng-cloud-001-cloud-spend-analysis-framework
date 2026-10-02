@@ -1,0 +1,2 @@
+# premium-costeng-cloud-001-cloud-spend-analysis-framework
+Your cloud bill is a black box, and you're hemorrhaging money without knowing where. The Cloud Spend Analysis Framework Template turns chaos into clarity—giving you the exact system engineers use to identify waste, track trends, and reclaim thousands monthly.  This isn't a generic budget tracker. It's a battle-tested Notion template built specifica
